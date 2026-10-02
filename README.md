@@ -110,10 +110,13 @@ javac Binary_Search_704.java
 java Binary_Search_704
 ```
 
+
 ## 👤 Author
 
-- **GitHub**: [@anguabishek17](https://github.com/anguabishek17)
+- **GitHub**: [@Bharath242006](https://github.com/Bharath242006)
+- **LeetCode**: [Bharath](https://leetcode.com/u/B7wpmEwjGh/)
 
 ---
 
 ⭐ *Feel free to star this repository if you find it helpful!*
+
